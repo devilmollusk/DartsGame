@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	FE233FA916A75DCF00C01A1E /* Darts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Darts;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FE233FBB16A75DD900C01A1E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FE233FBC16A75DD900C01A1E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FE80D387166D830100B16666 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FE233FA916A75DCF00C01A1E /* Darts */;
+		activeTarget = FE80D38F166D830100B16666 /* Darts */;
+		codeSenseManager = FE233FBC16A75DD900C01A1E /* Code sense */;
+		executables = (
+			FE233FA916A75DCF00C01A1E /* Darts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					379,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 381019177;
+			PBXWorkspaceStateSaveDate = 381019177;
+		};
+		sourceControlManager = FE233FBB16A75DD900C01A1E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FE80D38F166D830100B16666 /* Darts */ = {
+		activeExec = 0;
+		executables = (
+			FE233FA916A75DCF00C01A1E /* Darts */,
+		);
+	};
+}
